@@ -1,31 +1,28 @@
 [< Return](https://github.com/saractuna/)
-<h1>Interface</h1>
+<h1>Moonwalk</h1>
 
-An arcade-style game combining boomerang-based camera physics, target shooting and dodge-mechanics in a forest setting. Players compete against the clock to hit spawning beehives across a river while evading falling objects, with randomized powerups adding unpredictability.
+A 2D infinite-walker game developed as an OOP study project, features a class-based architecture for weapons, enemies, and game mechanics. The game challenges players to survive enemy waves by strategically managing different weapon types and enemy encounters, with defeated enemies dropping loot (health points, ammunition, etc.) to aid progression. Built using encapsulation and inheritance patterns.
 <br />
 <br />
 
 
 <h2>Languages and Utilities Used:</h2>
 
-- <b>C#</b> 
-- <b>Unity</b>
+- <b>C#</b>
 <br />
 
+- <b>Unity</b>
+<br />
 
 <h2>Walk-through:</h2>
 
 <p align="center">
 
-![frenzy1](https://github.com/user-attachments/assets/8f74fa13-6d7f-4606-a5bf-b5508b16d8b5)
+![moonwalk1](https://github.com/user-attachments/assets/e3502607-aad5-4122-8e65-6afda755cb07)
 <br />
 <br />
  
-![frenzy2](https://github.com/user-attachments/assets/b9d57895-ad35-4546-a049-eee8c45a0969)
-<br />
-<br />
-
-![frenzy3](https://github.com/user-attachments/assets/d9b60ff4-be0b-4c83-9632-9bb1b2240392)
+![moonwalk2](https://github.com/user-attachments/assets/1c5b853d-dfd9-4565-8a90-b418e61f5b85)
 <br />
 <br />
 
