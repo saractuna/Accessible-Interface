@@ -1,7 +1,7 @@
 [< Return](https://github.com/saractuna/)
-<h1>Moonwalk</h1>
+<h1>Accessible Interface Project</h1>
 
-A 2D infinite-walker game developed as an OOP study project, features a class-based architecture for weapons, enemies, and game mechanics. The game challenges players to survive enemy waves by strategically managing different weapon types and enemy encounters, with defeated enemies dropping loot (health points, ammunition, etc.) to aid progression. Built using encapsulation and inheritance patterns.
+<i>A responsive, accessible UI system designed to adapt across multiple screen sizes and aspect ratios while maintaining usability and visual clarity. Features a minimap window component for in-game navigation.</i>
 <br />
 <br />
 
@@ -18,11 +18,11 @@ A 2D infinite-walker game developed as an OOP study project, features a class-ba
 
 <p align="center">
 
-![moonwalk1](https://github.com/user-attachments/assets/e3502607-aad5-4122-8e65-6afda755cb07)
+![interface2](https://github.com/user-attachments/assets/dcf05d0d-485d-4a85-a462-57ba967fab45)
 <br />
 <br />
  
-![moonwalk2](https://github.com/user-attachments/assets/1c5b853d-dfd9-4565-8a90-b418e61f5b85)
+![interface1](https://github.com/user-attachments/assets/15c0fbe8-5b78-4d29-8e89-ce84c629185a)
 <br />
 <br />
 
